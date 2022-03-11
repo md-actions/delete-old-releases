@@ -1,3 +1,6 @@
+# [DEPRECATED]
+This action has moved to https://github.com/freenet-actions/delete-old-releases
+
 # Delete old releases
 
 This action searches for GitHub releases matching a specific prefix or regex and removes all that exceed a certain age.
